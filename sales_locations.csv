@@ -1,0 +1,16 @@
+StoreID,City,State,Latitude,Longitude,Sales,Demand
+1,Hyderabad,Telangana,17.3850,78.4867,80000,High
+2,Bangalore,Karnataka,12.9716,77.5946,120000,High
+3,Chennai,Tamil Nadu,13.0827,80.2707,95000,Medium
+4,Mumbai,Maharashtra,19.0760,72.8777,150000,High
+5,Delhi,Delhi,28.7041,77.1025,140000,High
+6,Pune,Maharashtra,18.5204,73.8567,70000,Medium
+7,Vijayawada,Andhra Pradesh,16.5062,80.6480,35000,High
+8,Warangal,Telangana,17.9689,79.5941,28000,High
+9,Mysore,Karnataka,12.2958,76.6394,30000,High
+10,Coimbatore,Tamil Nadu,11.0168,76.9558,45000,Medium
+11,Nagpur,Maharashtra,21.1458,79.0882,25000,High
+12,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,85000,Medium
+13,Surat,Gujarat,21.1702,72.8311,65000,Medium
+14,Jaipur,Rajasthan,26.9124,75.7873,50000,High
+15,Kochi,Kerala,9.9312,76.2673,55000,Medium
